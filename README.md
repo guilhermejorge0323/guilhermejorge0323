@@ -6,8 +6,8 @@ Hello, my name is Guilherme Jorge. I'm an up-and-coming web developer with exper
 ### My Portfolio
 
 Check out my portfolio to see my projects. If you're interested in collaborating or have any questions, feel free to get in touch.
-
-Aqui está a bandeira do Brasil: 🇧🇷
+PT-BR [Portfólio Português Brasil.](https://guilhermejorge0323.github.io/)
+EN [English portfolio.](https://guilhermejorge0323.github.io/porten/)
 
 
 ### My skills
@@ -20,5 +20,6 @@ Aqui está a bandeira do Brasil: 🇧🇷
 
 #### Backend
 * NodeJS (beginner)
+* ExpressJS (beginner)
 * MySQL (beginner)
 * DevOps (beginner)
