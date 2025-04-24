@@ -15,11 +15,11 @@ Check out my portfolio to see my projects. If you're interested in collaborating
 #### Frontend
 * Html5 (advanced)
 * CSS3 (advanced)
-* Sass (intermediate)
-* JavaScript (intermediate)
+* JavaScript (advanced)
 
 #### Backend
-* NodeJS (beginner)
-* ExpressJS (beginner)
-* MySQL (beginner)
-* DevOps (beginner)
+* NodeJS (intermediate)
+* ExpressJS (intermediate)
+* MySQL (intermediate)
+* sequelize (intermediate/advanced)
+* DevOps (intermediate)
