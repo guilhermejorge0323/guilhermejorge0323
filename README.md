@@ -13,9 +13,10 @@ Confira o meu portfólio para ver os meus projetos. Se você tiver interesse em 
 
 #### Frontend
 * Next.js (App Router & Turbopack) (avançado)
-* React & TypeScript (avançado)
+* React (avançado)
+* TypeScript (avançado)
 * Tailwind CSS v4 (avançado)
-* HTML5 (avançado)
+* HTML5 Semântico & Acessibilidade (avançado)
 * CSS3 (avançado)
 * JavaScript (avançado)
 
@@ -30,3 +31,7 @@ Confira o meu portfólio para ver os meus projetos. Se você tiver interesse em 
 * Docker (intermediário)
 * Git & GitHub (avançado)
 * DevOps (intermediário)
+
+#### Boas Práticas & Tecnologias Modernas
+* Engenharia de Prompt & Trabalho com IA (integração de ferramentas de IA no fluxo de desenvolvimento para maior produtividade)
+* Boas Práticas de Desenvolvimento (Clean Code, arquitetura limpa, padronização de commits e modularidade sem abstração precoce)
