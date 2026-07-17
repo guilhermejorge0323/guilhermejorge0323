@@ -1,25 +1,32 @@
 # Guilherme Jorge
 ### Web developer
 
-Hello, my name is Guilherme Jorge. I'm an up-and-coming web developer with experience in both frontend and backend development. I'm focused on becoming a fullstack developer.
+Olá! Meu nome é Guilherme Jorge. Sou um desenvolvedor web em constante evolução, com experiência prática tanto no desenvolvimento frontend quanto no backend. Meu foco atual é me consolidar como um desenvolvedor Fullstack de alto nível.
 
-### My Portfolio
+### Meu Portfólio
 
-Check out my portfolio to see my projects. If you're interested in collaborating or have any questions, feel free to get in touch.
-* PT-BR [Portfólio Português Brasil.](https://guilhermejorge0323.github.io/)
-* EN [English portfolio.](https://guilhermejorge0323.github.io/porten/)
+Confira o meu portfólio para ver os meus projetos. Se você tiver interesse em colaborar ou se tiver alguma dúvida, fique à vontade para entrar em contato.
 
+* [Portfólio Português Brasil.](https://guilhermejorge0323.github.io/)
 
-### My skills
+### Minhas habilidades
 
 #### Frontend
-* Html5 (advanced)
-* CSS3 (advanced)
-* JavaScript (advanced)
+* Next.js (App Router & Turbopack) (avançado)
+* React & TypeScript (avançado)
+* Tailwind CSS v4 (avançado)
+* HTML5 (avançado)
+* CSS3 (avançado)
+* JavaScript (avançado)
 
 #### Backend
-* NodeJS (intermediate)
-* ExpressJS (intermediate)
-* MySQL (intermediate)
-* sequelize (intermediate/advanced)
-* DevOps (intermediate)
+* Node.js & NestJS (intermediário/avançado)
+* ExpressJS (intermediário)
+* Prisma ORM (intermediário/avançado)
+* Sequelize (intermediário/avançado)
+* PostgreSQL & MySQL (intermediário)
+
+#### DevOps & Ferramentas
+* Docker (intermediário)
+* Git & GitHub (avançado)
+* DevOps (intermediário)
