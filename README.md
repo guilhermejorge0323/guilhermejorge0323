@@ -7,7 +7,7 @@ Olá! Meu nome é Guilherme Jorge. Sou um desenvolvedor web em constante evoluç
 
 Confira o meu portfólio para ver os meus projetos. Se você tiver interesse em colaborar ou se tiver alguma dúvida, fique à vontade para entrar em contato.
 
-* [Portfólio Português Brasil.](https://guilhermejorge0323.github.io/)
+* [Portfólio Português Brasil.](https://portifolio-dusky-xi.vercel.app/)
 
 ### Minhas habilidades
 
