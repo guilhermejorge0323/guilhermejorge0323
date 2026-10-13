@@ -1,6 +1,6 @@
 <!-- CAPA DO PERFIL -->
 <!-- Substitua a URL da imagem abaixo pelo link da imagem que você subiu ou arrastou no editor do GitHub -->
-![Banner Guilherme Jorge]('/img.jpeg')
+![Banner Guilherme Jorge](img.jpeg)
 
 # 💻 Guilherme Jorge
 ### Desenvolvedor Full-Stack
